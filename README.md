@@ -1,1 +1,1 @@
-# Recipe_Recommender_Case_Study_AWS_PySpark
+# Recipe-Recommender-EDA
